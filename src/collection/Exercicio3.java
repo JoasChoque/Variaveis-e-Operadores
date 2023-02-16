@@ -23,7 +23,7 @@ public class Exercicio3 {
 		//Criando o iterator
 		Iterator<Integer> it = numeros.iterator();
 		
-		//Mostrando o 
+		//Mostrando os números adicionador (iterator)
 		System.out.println("Listar dados do Set: ");
 		while(it.hasNext()) {
 			System.out.println(it.next());

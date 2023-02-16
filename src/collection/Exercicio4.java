@@ -23,9 +23,11 @@ public class Exercicio4 {
 		numeros.add(10);
 		numeros.add(6);
 		
+		//Lendo o valor a ser encontrado
 		System.out.println("Digite o número que você deseja encontrar: ");
 		int n= s.nextInt();
 		
+		//Verificando se o número esta dentro do array
 		boolean verifica;
 		verifica = numeros.contains(n);
 		

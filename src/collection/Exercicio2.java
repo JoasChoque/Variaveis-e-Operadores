@@ -22,12 +22,13 @@ public class Exercicio2 {
 		numeros.add(10);
 		numeros.add(6);
 		
+		//Lendo número
 		System.out.println("Digite o número que você deseja encontrar: ");
 		int n = s.nextInt();
 		
 		//verificando a posicao
 		int posicao = numeros.indexOf(n);
-		
+
 		if(posicao!=-1) {
 			System.out.printf("O número %d está localizado na posição %d",n,posicao);
 		}
