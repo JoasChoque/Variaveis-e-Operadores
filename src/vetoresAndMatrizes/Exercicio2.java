@@ -37,7 +37,7 @@ public class Exercicio2 {
 		}
 		
 		System.out.printf("Números nos índices ímpares: \n"+impares);
-		System.out.println("Elementos pares: \n"+pares);
+		System.out.println("\nElementos pares: \n"+pares);
 		System.out.println("Soma: "+soma);
 	}
 

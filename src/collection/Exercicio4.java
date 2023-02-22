@@ -9,7 +9,7 @@ public class Exercicio4 {
 	public static void main(String[] args) {
 		Scanner s = new Scanner(System.in);
 		
-		Set<Integer> numeros = new HashSet<Integer>();
+	Set<Integer> numeros = new HashSet<Integer>();
 		
 		//adicionando valores;
 		numeros.add(2);

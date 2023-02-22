@@ -31,8 +31,5 @@ public class Exercicio1 {
 		Collections.sort(cores);
 		System.out.println("Cores ordenadas: ");
 		System.out.println("\n"+cores);
-		
-
 	}
-
 }
